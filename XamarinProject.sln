@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinProject.iOS", "Xamar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinProject.UWP", "XamarinProject\XamarinProject.UWP\XamarinProject.UWP.csproj", "{59DA65DD-FD2E-4315-9935-6EE4FF8B2C0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinProject.MobileAppService", "XamarinProject\XamarinProject.MobileAppService\XamarinProject.MobileAppService.csproj", "{2AA51D0F-6774-4C65-81D3-F6B4CC2245CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XamarinProject.MobileAppService", "XamarinProject\XamarinProject.MobileAppService\XamarinProject.MobileAppService.csproj", "{2AA51D0F-6774-4C65-81D3-F6B4CC2245CA}"
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "XamarinProject", "XamarinProject\XamarinProject\XamarinProject.shproj", "{4EF94692-FC36-4E5D-ACF0-A58A0A453A6D}"
 EndProject
